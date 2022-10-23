@@ -4,6 +4,8 @@ This repository would contain my implementation of the recent/important transfor
 
 ## Natural Language Processing
 * DocFormer: End-to-End Transformer for Document Understanding [[Paper]](https://arxiv.org/abs/2106.11539) [[Code]](https://github.com/shabie/docformer)
+* LiLT: A Simple yet Effective Language-Independent Layout Transformer,for Structured Document Understanding [[Paper]](https://aclanthology.org/2022.acl-long.534.pdf) [[Code]](https://github.com/uakarsh/LiLT)
+
 
 ## Visual Question Answering
 * LaTr: Layout-aware transformer for scene-text VQA [[Paper]](https://arxiv.org/abs/2112.12494) [[Code]](https://github.com/uakarsh/latr)
